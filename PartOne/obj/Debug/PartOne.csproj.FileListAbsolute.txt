@@ -1,0 +1,6 @@
+C:\programming\SecondHomeWorkOOP\PartOne\bin\Debug\PartOne.exe.config
+C:\programming\SecondHomeWorkOOP\PartOne\bin\Debug\PartOne.exe
+C:\programming\SecondHomeWorkOOP\PartOne\bin\Debug\PartOne.pdb
+C:\programming\SecondHomeWorkOOP\PartOne\obj\Debug\PartOne.csprojResolveAssemblyReference.cache
+C:\programming\SecondHomeWorkOOP\PartOne\obj\Debug\PartOne.exe
+C:\programming\SecondHomeWorkOOP\PartOne\obj\Debug\PartOne.pdb
